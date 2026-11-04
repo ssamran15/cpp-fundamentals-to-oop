@@ -1,0 +1,5 @@
+Rice 2 1850
+Sugar 3 160
+Tea 1 650
+Oil 2 590
+Soap 6 120
