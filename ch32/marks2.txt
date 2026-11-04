@@ -1,0 +1,6 @@
+Ayesha 78 85 91 88
+Bilal 66 72 58
+Fatima 88 94 90 79 85
+Hamza 55 61 70 64
+Sana 82 79 88 91
+Usman 90 85 77
