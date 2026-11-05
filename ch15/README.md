@@ -317,7 +317,7 @@ Percentage = 76.5455%
 
 ```
 Obtained marks and total marks: 1200 1100
-P15_12: P15_12.cpp:20: double percentage(int, int): Assertion `obtained >= 0 && obtained <= total' failed.
+Assertion failed: obtained >= 0 && obtained <= total, file P15_12.cpp, line 21
 ```
 
-In the second run the assertion fails and the program stops at once. The message above is from GCC on Linux; Dev-C++ prints the same information (the condition, the file and the line number) in a slightly different form.
+In the second run the assertion fails and the program stops at once. The message above is the Windows (Dev-C++) form; Dev-C++ may show the full path of the file instead of just its name. The result is stored in `p` before anything is printed, so "Percentage =" does not appear when the assertion fails.

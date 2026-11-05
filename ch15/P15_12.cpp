@@ -10,7 +10,8 @@ int main()
     int obtained, total;
     cout << "Obtained marks and total marks: ";
     cin >> obtained >> total;
-    cout << "Percentage = " << percentage(obtained, total) << "%" << endl;
+    double p = percentage(obtained, total);
+    cout << "Percentage = " << p << "%" << endl;
     return 0;
 }
 
