@@ -2,6 +2,8 @@
 
 Solutions to the Practice Programs of Chapter 19. Each program uses only what has been taught up to this chapter. Try each problem yourself before you look at the solution.
 
+More exercises for this chapter (Determine the output, Find the error) are in [more-exercises.md](more-exercises.md).
+
 Every program here was also checked with Valgrind: no memory leaks and no invalid memory use.
 
 To compile from the Command Prompt: `g++ -std=c++17 -Wall -Wextra P19_1.cpp -o P19_1` (or press F11 in Dev-C++).

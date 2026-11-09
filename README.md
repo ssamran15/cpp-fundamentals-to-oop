@@ -2,7 +2,7 @@
 
 Source code for the book **C++: From Fundamentals to Object-Oriented Programming** by Samran Naveed.
 
-Each chapter folder (`ch01` to `ch33`) contains the solutions to the Practice Programs at the end of that chapter.
+Each chapter folder (`ch01` to `ch33`) contains the solutions to the Practice Programs at the end of that chapter. Folders `ch03` to `ch33` also contain `more-exercises.md`, with extra Determine the output and Find the error exercises that continue the Exercises section of the book.
 
 ## How to use
 

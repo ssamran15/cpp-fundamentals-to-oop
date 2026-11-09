@@ -2,6 +2,8 @@
 
 Solutions to the Practice Programs of Chapter 28. Each program uses only what has been taught up to this chapter. Try each problem yourself before you look at the solution.
 
+More exercises for this chapter (Determine the output, Find the error) are in [more-exercises.md](more-exercises.md).
+
 To compile from the Command Prompt: `g++ -std=c++17 -Wall -Wextra P28_1.cpp -o P28_1` (or press F11 in Dev-C++).
 
 ## P28.1: Size of virtual functions
